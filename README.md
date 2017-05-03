@@ -3,6 +3,8 @@
 This library enables you to quickly add any middleware to your codeigniter application and in too few lines you get everything up and running smoothly.
 Tested on CodeIgniter 3.0.4, should work on 2.2+ as well
 
+#### Update: Still working flawlessly as of May 2017
+
 ### Quick Integration Guide
 
 * Copy MY_Controller.php to application/core
